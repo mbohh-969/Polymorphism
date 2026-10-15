@@ -1,0 +1,42 @@
+C:\Users\USER\Documents\Sebelasp Pege\Polymorphism\Polymorphism\bin\Debug\net10.0\Polymorphism.exe
+C:\Users\USER\Documents\Sebelasp Pege\Polymorphism\Polymorphism\bin\Debug\net10.0\Polymorphism.deps.json
+C:\Users\USER\Documents\Sebelasp Pege\Polymorphism\Polymorphism\bin\Debug\net10.0\Polymorphism.runtimeconfig.json
+C:\Users\USER\Documents\Sebelasp Pege\Polymorphism\Polymorphism\bin\Debug\net10.0\Polymorphism.dll
+C:\Users\USER\Documents\Sebelasp Pege\Polymorphism\Polymorphism\bin\Debug\net10.0\Polymorphism.pdb
+C:\Users\USER\Documents\Sebelasp Pege\Polymorphism\Polymorphism\obj\Debug\net10.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Sebelasp Pege\Polymorphism\Polymorphism\obj\Debug\net10.0\Polymorphism.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Sebelasp Pege\Polymorphism\Polymorphism\obj\Debug\net10.0\Polymorphism.AssemblyInfo.cs
+C:\Users\USER\Documents\Sebelasp Pege\Polymorphism\Polymorphism\obj\Debug\net10.0\Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Sebelasp Pege\Polymorphism\Polymorphism\obj\Debug\net10.0\Polymorphism.dll
+C:\Users\USER\Documents\Sebelasp Pege\Polymorphism\Polymorphism\obj\Debug\net10.0\refint\Polymorphism.dll
+C:\Users\USER\Documents\Sebelasp Pege\Polymorphism\Polymorphism\obj\Debug\net10.0\Polymorphism.pdb
+C:\Users\USER\Documents\Sebelasp Pege\Polymorphism\Polymorphism\obj\Debug\net10.0\Polymorphism.genruntimeconfig.cache
+C:\Users\USER\Documents\Sebelasp Pege\Polymorphism\Polymorphism\obj\Debug\net10.0\ref\Polymorphism.dll
+C:\Users\USER\Documents\Sebelasp Pege\Polymorphism\Percobaan 2 Poly\Polymorphism\bin\Debug\net10.0\Polymorphism.exe
+C:\Users\USER\Documents\Sebelasp Pege\Polymorphism\Percobaan 2 Poly\Polymorphism\bin\Debug\net10.0\Polymorphism.deps.json
+C:\Users\USER\Documents\Sebelasp Pege\Polymorphism\Percobaan 2 Poly\Polymorphism\bin\Debug\net10.0\Polymorphism.runtimeconfig.json
+C:\Users\USER\Documents\Sebelasp Pege\Polymorphism\Percobaan 2 Poly\Polymorphism\bin\Debug\net10.0\Polymorphism.dll
+C:\Users\USER\Documents\Sebelasp Pege\Polymorphism\Percobaan 2 Poly\Polymorphism\bin\Debug\net10.0\Polymorphism.pdb
+C:\Users\USER\Documents\Sebelasp Pege\Polymorphism\Percobaan 2 Poly\Polymorphism\obj\Debug\net10.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Sebelasp Pege\Polymorphism\Percobaan 2 Poly\Polymorphism\obj\Debug\net10.0\Polymorphism.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Sebelasp Pege\Polymorphism\Percobaan 2 Poly\Polymorphism\obj\Debug\net10.0\Polymorphism.AssemblyInfo.cs
+C:\Users\USER\Documents\Sebelasp Pege\Polymorphism\Percobaan 2 Poly\Polymorphism\obj\Debug\net10.0\Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Sebelasp Pege\Polymorphism\Percobaan 2 Poly\Polymorphism\obj\Debug\net10.0\Polymorphism.dll
+C:\Users\USER\Documents\Sebelasp Pege\Polymorphism\Percobaan 2 Poly\Polymorphism\obj\Debug\net10.0\refint\Polymorphism.dll
+C:\Users\USER\Documents\Sebelasp Pege\Polymorphism\Percobaan 2 Poly\Polymorphism\obj\Debug\net10.0\Polymorphism.pdb
+C:\Users\USER\Documents\Sebelasp Pege\Polymorphism\Percobaan 2 Poly\Polymorphism\obj\Debug\net10.0\Polymorphism.genruntimeconfig.cache
+C:\Users\USER\Documents\Sebelasp Pege\Polymorphism\Percobaan 2 Poly\Polymorphism\obj\Debug\net10.0\ref\Polymorphism.dll
+C:\Users\USER\Documents\Sebelasp Pege\Polymorphism\Percobaan 2 Poly - 2\Polymorphism\bin\Debug\net10.0\Polymorphism.exe
+C:\Users\USER\Documents\Sebelasp Pege\Polymorphism\Percobaan 2 Poly - 2\Polymorphism\bin\Debug\net10.0\Polymorphism.deps.json
+C:\Users\USER\Documents\Sebelasp Pege\Polymorphism\Percobaan 2 Poly - 2\Polymorphism\bin\Debug\net10.0\Polymorphism.runtimeconfig.json
+C:\Users\USER\Documents\Sebelasp Pege\Polymorphism\Percobaan 2 Poly - 2\Polymorphism\bin\Debug\net10.0\Polymorphism.dll
+C:\Users\USER\Documents\Sebelasp Pege\Polymorphism\Percobaan 2 Poly - 2\Polymorphism\bin\Debug\net10.0\Polymorphism.pdb
+C:\Users\USER\Documents\Sebelasp Pege\Polymorphism\Percobaan 2 Poly - 2\Polymorphism\obj\Debug\net10.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Sebelasp Pege\Polymorphism\Percobaan 2 Poly - 2\Polymorphism\obj\Debug\net10.0\Polymorphism.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Sebelasp Pege\Polymorphism\Percobaan 2 Poly - 2\Polymorphism\obj\Debug\net10.0\Polymorphism.AssemblyInfo.cs
+C:\Users\USER\Documents\Sebelasp Pege\Polymorphism\Percobaan 2 Poly - 2\Polymorphism\obj\Debug\net10.0\Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Sebelasp Pege\Polymorphism\Percobaan 2 Poly - 2\Polymorphism\obj\Debug\net10.0\Polymorphism.dll
+C:\Users\USER\Documents\Sebelasp Pege\Polymorphism\Percobaan 2 Poly - 2\Polymorphism\obj\Debug\net10.0\refint\Polymorphism.dll
+C:\Users\USER\Documents\Sebelasp Pege\Polymorphism\Percobaan 2 Poly - 2\Polymorphism\obj\Debug\net10.0\Polymorphism.pdb
+C:\Users\USER\Documents\Sebelasp Pege\Polymorphism\Percobaan 2 Poly - 2\Polymorphism\obj\Debug\net10.0\Polymorphism.genruntimeconfig.cache
+C:\Users\USER\Documents\Sebelasp Pege\Polymorphism\Percobaan 2 Poly - 2\Polymorphism\obj\Debug\net10.0\ref\Polymorphism.dll
